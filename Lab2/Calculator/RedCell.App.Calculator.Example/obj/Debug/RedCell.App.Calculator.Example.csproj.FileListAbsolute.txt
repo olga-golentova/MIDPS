@@ -1,0 +1,18 @@
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.exe.config
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.exe
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.pdb
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.Form1.resources
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.Properties.Resources.resources
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.csproj.GenerateResource.Cache
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.exe
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.pdb
+B:\Red Cell Innovation\Development\RedCell.App.Calculator.Example\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.csprojResolveAssemblyReference.cache
+E:\midps\Lab2\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.exe.config
+E:\midps\Lab2\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.exe
+E:\midps\Lab2\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.pdb
+E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.csprojResolveAssemblyReference.cache
+E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.Form1.resources
+E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.Properties.Resources.resources
+E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.csproj.GenerateResource.Cache
+E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.exe
+E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.pdb

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Olga\.android\build-cache\3a75a5fd960af9f9d39eeb02cbbbaf3ef94feb67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\midps\lab5\BoxQuest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4cd8d683900f4fc2335bc4500d395904360e3f7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\midps\lab5\BoxQuest-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d86e52055ddeb28506b94366fd902423818d0cb6">
+        <dex dex="E:\midps\lab5\BoxQuest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_26ce2d1168c29b868fdbf5af8c07bee0d21385a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Olga\.android\build-cache\62631bccfefcc95658aa0d8b675d8cc42e8f3264\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\midps\lab5\BoxQuest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3ba5e3dea9b234582d679bc2c712069d93cc557\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Olga\.android\build-cache\fd10b4786422c127c305e94b4ff9abe3dd7256a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\midps\lab5\BoxQuest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8181ac876858157718261dd2ff3e334972b51de3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Olga\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\midps\lab5\BoxQuest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_fc761a17cf799c078a1a48e7bef56dc3a430810f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Olga\.gradle\caches\modules-2\files-2.1\frankiesardo\icepick\3.2.0\5ab94f3bba3f9315532eb1ca5547d120c4f71dae\icepick-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5ab94f3bba3f9315532eb1ca5547d120c4f71dae">
+        <dex dex="E:\midps\lab5\BoxQuest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\icepick-3.2.0_b13167b867d0db095f42ab0e1be5d54387d7b734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\midps\lab5\BoxQuest-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\midps\lab5\BoxQuest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a37e8cd8699dffa32a44b1c095f80f94ff71171d\classes.dex" />
+    </item>
+
+</items>

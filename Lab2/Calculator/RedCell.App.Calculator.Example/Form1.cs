@@ -36,6 +36,7 @@ namespace RedCell.App.Calculator.Example
 
             lastOperation = operation;
             Display.Text = operation == '=' ? accumulator.ToString() : "0";
+            
         }
 
         private void Number_Pressed(object sender, EventArgs e)

@@ -16,3 +16,12 @@ E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Ex
 E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.csproj.GenerateResource.Cache
 E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.exe
 E:\midps\Lab2\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.pdb
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.exe.config
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.exe
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\bin\Debug\RedCell.App.Calculator.Example.pdb
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.csprojResolveAssemblyReference.cache
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.Form1.resources
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.Properties.Resources.resources
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.csproj.GenerateResource.Cache
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.exe
+E:\midps\Lab2\Calculator\RedCell.App.Calculator.Example\obj\Debug\RedCell.App.Calculator.Example.pdb
